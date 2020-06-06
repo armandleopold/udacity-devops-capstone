@@ -80,7 +80,7 @@ Scripts and configuration tunning i use to setup my raspberry cluster.
 ## Result : 
 
 * Managing the Router & monitoring traffic : https://armandleopold.unmsapp.com/nms/dashboard
-![unsm.png](unsm.png)
+![unsm.png](unsm.PNG)
 ![router.PNG](router.PNG)
 
 * Managing the load balancing Inbound/Outbound Kubernetes : https://traefik.armandleopold.fr/dashboard/
