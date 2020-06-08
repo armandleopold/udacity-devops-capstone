@@ -1,4 +1,4 @@
-# Capstone Project : Personnal Data-Center With a **Cloud DevOps** approach
+# Capstone Project : Personnal Datacenter With a **Cloud DevOps** approach
 
 The objective for me of this capstone project is to be able to write code and operationnalize it in a test & production environment. As automated with CI/CD pipelines as possible.
 
